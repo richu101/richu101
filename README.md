@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'M Richu Bini 
+### I'M Richu Bini 
 
 - 🔭 I’m currently working on ... **Embeded Programing**
 
