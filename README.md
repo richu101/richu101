@@ -1,4 +1,4 @@
-### I'M Richu Bini 
+### I'M Richu Bini :octocat:
 
 - 🔭 I’m currently working on ... **Embeded Programing**
 
