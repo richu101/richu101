@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 -->
 :octoczy
 
-:octoczy
 
 :octocat:
