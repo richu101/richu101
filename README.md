@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ... **Embeded Programing**
 - 👯 I’m looking to collaborate on ... **Drone Flight controller code**
+- 💬 Ask me about ... **Learn to write software in hardware**
 <!--
 **richu101/richu101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
