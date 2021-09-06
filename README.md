@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richu101&label=Profile%20views&color=0e75b6&style=flat" alt="richu101" /> </p>
 
-- 🔭 I’m currently working on **Drone flight controller**
+- 🔭 I’m currently working on **RC Transmitter and Receiver**
 
 - 🌱 I’m currently learning **Embedded programming , python , web dev**
 
